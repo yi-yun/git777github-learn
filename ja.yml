@@ -64,7 +64,8 @@ counter:
 state:
   posts: ポスト
   pages: ページ
-  test: 测试
+  test: 测试1
+  test: 2ceshi 
   tags: タグ
   categories: カテゴリ
 search:
