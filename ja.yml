@@ -64,6 +64,7 @@ counter:
 state:
   posts: ポスト
   pages: ページ
+  test: 测试
   tags: タグ
   categories: カテゴリ
 search:
