@@ -65,7 +65,8 @@ state:
   posts: ポスト
   pages: ページ
   test: 测试1
-  test: 2ceshi 
+  test: 2ceshi
+  asd: asda
   tags: タグ
   categories: カテゴリ
 search:
